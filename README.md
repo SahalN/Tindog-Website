@@ -8,8 +8,6 @@ Tindog Logo
 Welcome to Tindog Landing Page! This project is a simple and stylish landing page for a fictional website dedicated to connecting dogs and their owners. The page has been designed with a modern and user-friendly interface.
 Project Structure
 
-lua
-
 root folder/
 |-- css/
 |   |-- styles.css
@@ -20,14 +18,6 @@ root folder/
 |
 |-- index.html
 |-- README.md
-
-    css/: This directory contains the stylesheet for the landing page.
-        styles.css: The main stylesheet for the Tindog Landing Page.
-
-    images/: All the images used in the landing page.
-        tindog-logo.png: The logo of Tindog.
-
-    index.html: The main HTML file for the Tindog Landing Page.
 
 Usage
 
